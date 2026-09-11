@@ -4,3 +4,8 @@
     color: white;
     font-family: Rubik, sans-serif;
 }
+.parent-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;           
+}
