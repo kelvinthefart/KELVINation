@@ -1,10 +1,10 @@
 /* demo 1 08/08/2026 ddmmyy */
 :root {
-    background-color: #131a3c;
-    color: white;
+    background-color: #FFDBBB;
+    color: #A0522D;
     font-family: Rubik, sans-serif;
 }
-.parent-container {
+. {
   display: flex;
   justify-content: center;
   align-items: center;           
