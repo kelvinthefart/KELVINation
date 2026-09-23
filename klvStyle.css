@@ -10,3 +10,16 @@
   align-items: flex-start;
   min-height: 10rem           
 }
+#btn1 {
+    background-color: #CF6940;
+    color: #FFDBBB;
+    border: 1px solid #A0522D;
+    border-radius: 15px;
+    padding: 5px 12px;
+}
+button:hover {
+    transform: scale(1.2);
+    transition: transform 0.2s ease-out;
+    background-color:  #FFD9AB;
+    transition: background-color 0.55s ease-out
+}
