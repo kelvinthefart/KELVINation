@@ -1,4 +1,4 @@
-/* demo 8 23/9/2026 ddmmyy */
+/* demo 9 23/9/2026 ddmmyy */
 :root {
     background-color: #FFDBBB;
     color: #A0522D;
@@ -19,7 +19,7 @@
 }
 button:hover {
     transform: scale(1.2);
-    transition: transform 0.2s ease-out;
+    transition: transform .8s ease-out;
     background-color:  #FFD9AB;
-    transition: background-color 0.55s ease-out
+    transition: background-color 1.25s ease-out
 }
