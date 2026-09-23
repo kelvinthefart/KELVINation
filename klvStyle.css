@@ -1,4 +1,4 @@
-/* demo 1 08/08/2026 ddmmyy */
+/* demo 8 23/9/2026 ddmmyy */
 :root {
     background-color: #FFDBBB;
     color: #A0522D;
@@ -6,9 +6,9 @@
 }
 #thewholething {
   display: flex;
-  justify-content: center;
-  align-items: flex-start;
-  min-height: 10rem           
+  flex-direction: column;
+  align-items: center;
+  min-height: 2rem           
 }
 #btn1 {
     background-color: #CF6940;
